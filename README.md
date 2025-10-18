@@ -5,10 +5,10 @@ Este proyecto implementa una automatización de pruebas para el sitio SauceDemo,
 🎯 Propósito del Proyecto
 El objetivo es automatizar los siguientes flujos en la aplicación SauceDemo:
 
-• Login con credenciales válidas e inválidas
-• Verificación del catálogo de productos
-• Interacción con el carrito de compras (añadir productos y verificar su contenido)
-• Cierre de sesión
+•Login con credenciales válidas e inválidas
+•Verificación del catálogo de productos
+•Interacción con el carrito de compras (añadir productos y verificar su contenido)
+•Cierre de sesión
 
 🛠️ Tecnologías Utilizadas
 • Python: Lenguaje de programación principal
