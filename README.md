@@ -2,7 +2,7 @@
 
 Este proyecto implementa una automatización de pruebas para el sitio SauceDemo, utilizando Selenium WebDriver y Python.
 
-🎯 Propósito del Proyecto
+🎯 _Propósito del Proyecto_
 El objetivo es automatizar los siguientes flujos en la aplicación SauceDemo:
 
 * Login con credenciales válidas e inválidas
@@ -10,13 +10,13 @@ El objetivo es automatizar los siguientes flujos en la aplicación SauceDemo:
 * Interacción con el carrito de compras (añadir productos y verificar su contenido)
 * Cierre de sesión
 
-🛠️ Tecnologías Utilizadas
+🛠️ _Tecnologías Utilizadas_
 * Python: Lenguaje de programación principal
 * Pytest: Framework de testing para estructurar y ejecutar pruebas
 * Selenium WebDriver: Para la automatización de la interfaz web
 * Git/GitHub: Para control de versiones y compartir el código
 
-⚙️ Instalación de Dependencias
+⚙️ _Instalación de Dependencias_
 * Asegúrate de tener Python 3.7 o superior instalado.
 
 Instala las dependencias necesarias:
